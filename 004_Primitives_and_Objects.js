@@ -1,0 +1,1 @@
+//Premetive datatypes are set of basic data types in javascript
